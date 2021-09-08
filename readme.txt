@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-test again!!
+解决冲突哦！！我在master分支上了呀
