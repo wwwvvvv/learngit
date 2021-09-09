@@ -2,4 +2,4 @@ this is a test file.
 review the content that learned yesterday.
 learn git makes me happier
 Now I learn how to use git stash.
-
+Now I learn how to use git stash apply / git stash pop / git stash apply @stash{0} / git cherry-pick commit_id / git stash list
