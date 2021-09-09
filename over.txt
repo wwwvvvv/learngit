@@ -1,3 +1,5 @@
 this is a test file.
 review the content that learned yesterday.
 learn git makes me happier
+Now I learn how to use git stash.
+
